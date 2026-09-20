@@ -61,7 +61,6 @@ I enjoy taking a problem through the complete journey:
 
 ---
 
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
@@ -72,6 +71,8 @@ I enjoy taking a problem through the complete journey:
 An AI-powered data analytics platform designed to transform raw business data into **accurate, evidence-based insights**.
 
 The system can ingest multiple data sources and automate the analytical workflow from data profiling to natural-language insights.
+
+🔗 Live Demo: https://ada-frontend-fg76.onrender.com/
 
 **Key capabilities:**
 
