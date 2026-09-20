@@ -63,70 +63,125 @@ I enjoy taking a problem through the complete journey:
 
 ## 🚀 Featured Projects
 
-### 1. AI-Powered Financial Fraud Detection
+## 🚀 Featured Projects
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, Machine Learning, Data Visualization
+### 1. 🤖 Autonomous Data Analyst
 
-An end-to-end machine learning project focused on identifying potentially fraudulent financial transactions.
+**Technologies:** Python, FastAPI, React, SQL, Pandas, Plotly, Generative AI, RAG
 
-Key areas include:
+An AI-powered data analytics platform designed to transform raw business data into **accurate, evidence-based insights**.
 
-- Data preprocessing
-- Exploratory data analysis
-- Feature preparation
-- Machine learning model development
-- Model evaluation
-- Data visualization
+The system can ingest multiple data sources and automate the analytical workflow from data profiling to natural-language insights.
+
+**Key capabilities:**
+
+* Multi-format data ingestion
+* Automated data profiling and quality analysis
+* KPI generation and business metrics
+* Trend and anomaly detection
+* Interactive data visualizations
+* Natural-language data analysis
+* Evidence-based AI responses
+* Schema-aware question answering
+* AI-assisted business insights
+
+**Core principle:** *AI should explain the data — not invent the data.*
 
 ---
 
-### 2. FinTrack AI
+### 2. 💳 AI-Powered Financial Fraud Detection
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Machine Learning, Data Visualization
+
+An end-to-end machine learning system focused on identifying potentially fraudulent financial transactions using multiple supervised and unsupervised learning approaches.
+
+**Key areas include:**
+
+* Data preprocessing and cleaning
+* Exploratory data analysis
+* Feature preparation
+* Fraud detection modeling
+* Multiple ML algorithms
+* Model evaluation
+* Anomaly detection
+* Data visualization
+
+**Models explored:**
+
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* XGBoost
+* Isolation Forest
+
+---
+
+### 3. 💰 FinTrack AI
 
 **Technologies:** Python, AI/ML, Data Analytics, SQL, Generative AI
 
-An AI-powered financial intelligence application designed to analyze financial information and provide intelligent, practical insights.
+An AI-powered financial intelligence application designed to analyze financial information and convert data into **practical, actionable insights**.
 
-The project combines:
+The project combines traditional analytics with AI-driven capabilities to support financial analysis and decision-making.
 
-- Data analytics
-- AI/ML
-- SQL
-- Generative AI
-- Practical financial intelligence use cases
+**Key areas include:**
 
----
-
-### 3. Retail Sales Business Intelligence & SQL Analytics System
-
-**Technologies:** SQL, MySQL, Excel, Power BI
-
-A retail analytics system focused on understanding sales performance, customer behavior, product performance, revenue, and profitability.
-
-Key areas include:
-
-- SQL-based analysis
-- KPI development
-- Retail sales analysis
-- Customer behavior analysis
-- Product performance analysis
-- Business intelligence dashboards
+* Financial data analysis
+* Data preprocessing
+* SQL-based analytics
+* AI/ML integration
+* Generative AI
+* Financial intelligence
+* Insight generation
+* Practical financial use cases
 
 ---
 
-### 4. Grocery Store Sales Analysis
+### 4. 📊 Retail Sales Business Intelligence & SQL Analytics System
+
+**Technologies:** SQL, MySQL, Excel, Power BI, Data Analytics
+
+A business intelligence and SQL analytics system designed to analyze retail operations, sales performance, customer behavior, inventory, promotions, and profitability.
+
+**Key areas include:**
+
+* SQL-based business analysis
+* Retail sales analysis
+* KPI development
+* Revenue and profitability analysis
+* Customer behavior analysis
+* Product performance analysis
+* Inventory analysis
+* Interactive Power BI dashboards
+* Business performance reporting
+
+**Data domains include:**
+
+* Product information
+* Sales data
+* Inventory data
+* Site details
+* Promotions & discounts
+* Customer demographics
+
+---
+
+### 5. 🛒 Grocery Store Sales Analysis
 
 **Technologies:** Power BI, Excel, Data Analytics
 
-A data analytics project focused on analyzing grocery store sales and identifying meaningful business trends.
+A business analytics project focused on analyzing grocery store performance and identifying meaningful patterns across sales, store characteristics, customer activity, and operational factors.
 
-The project includes:
+**Key areas include:**
 
-- Data cleaning
-- Sales analysis
-- KPI development
-- Interactive Power BI dashboard
-- Business trend analysis
-- Product performance analysis
+* Data cleaning and preparation
+* Sales performance analysis
+* KPI development
+* Store-level analysis
+* Customer activity analysis
+* Business trend analysis
+* Interactive Power BI dashboard
+* Data-driven business insights
 
 ---
 
